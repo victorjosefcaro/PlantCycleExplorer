@@ -55,3 +55,6 @@ PlantCycleExplorer is a Windows Forms educational application designed to teach 
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## 📝 Note
+This project was created as part of my Computer Programming 2 course during my 1st year in college, and was submitted on April 25, 2022.
