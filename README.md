@@ -2,6 +2,20 @@
 
 PlantCycleExplorer is a Windows Forms educational application designed to teach users about the life cycle of plants. The app provides interactive lessons, quizzes (multiple choice and true/false), and visual aids to help users understand key concepts in plant biology.
 
+## 🖼️ Screenshots
+
+### Home
+![Main Window](screenshots/Home.png)
+
+### Lesson
+![Lesson Window](screenshots/Lesson.png)
+
+### Question
+![Question Window](screenshots/Question.png)
+
+### Quiz
+![Quiz Window](screenshots/Quiz.png)
+
 ## ✨ Features
 
 - 📖 **Interactive Lessons:** Step-by-step explanations of each stage in a plant's life cycle.
