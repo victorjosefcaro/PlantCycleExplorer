@@ -24,15 +24,7 @@ PlantCycleExplorer is a Windows Forms educational application designed to teach 
 - 🖼️ **Visual Aids:** Includes images and diagrams to enhance understanding.
 - 🖱️ **User-Friendly Interface:** Simple navigation with menu and chapter selection.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- 🪟 Windows OS
-- [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472)
-- Visual Studio (recommended for building from source)
-
-### Installation Guide
+### 🚀 Installation Guide
 
 1. Clone or download this repository.
 2. Open `WindowsFormsApp9.sln` in Visual Studio.
