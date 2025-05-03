@@ -25,7 +25,7 @@ PlantCycleExplorer is a Windows Forms educational application designed to teach 
 1. Go to the [Releases](https://github.com/victorjosefcaro/PlantCycleExplorer/releases) page.
 2. Download the latest `.zip` release package.
 3. Extract the contents to a folder of your choice.
-4. Double-click `WindowsFormsApp9.exe` to launch the application.
+4. Double-click `PlantCycleExplorer` to launch the application.
 
 #### 🛠️ Build from Source
 
